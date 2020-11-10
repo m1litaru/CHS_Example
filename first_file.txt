@@ -1,1 +1,4 @@
 my first file in git repo
+
+
+changed 4th line because I want a conflict
