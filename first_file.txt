@@ -1,4 +1,7 @@
 my first file in git repo
 
 
+changes 4thline here
+
+
 changed 4th line because I want a conflict
